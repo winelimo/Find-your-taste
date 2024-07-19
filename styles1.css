@@ -1,0 +1,131 @@
+<style1.css>
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+}
+
+.container {
+    width: 80%;
+    margin: auto;
+    overflow: hidden;
+}
+
+/* Header */
+.header {
+    background-color: #333;
+    color: #fff;
+    padding: 10px 0;
+    overflow: hidden;
+}
+
+.header .logo {
+    float: left;
+    display: inline-block;
+    margin-left: 20px;
+    font-size: 1.5rem;
+    text-transform: uppercase;
+}
+
+.header .navigation {
+    float: right;
+    display: inline-block;
+    margin-right: 20px;
+}
+
+.header .navigation a {
+    color: #fff;
+    text-decoration: none;
+    margin-left: 20px;
+    font-size: 1.1rem;
+}
+
+/* Hero Section */
+.hero {
+    text-align: center;
+    margin-top: 50px;
+}
+
+.hero img {
+    width: 100%;
+    max-width: 1000px;
+    height: auto;
+}
+
+.hero .cta-button {
+    display: inline-block;
+    background-color: #FFC107;
+    color: #333;
+    padding: 10px 20px;
+    text-decoration: none;
+    font-size: 1.2rem;
+    margin-top: 20px;
+}
+
+/* Featured Products */
+.featured-products {
+    margin-top: 50px;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 20px;
+}
+
+.featured-product {
+    text-align: center;
+    border: 1px solid #ddd;
+    padding: 20px;
+    background-color: #fff;
+}
+
+.featured-product img {
+    max-width: 100%;
+    height: auto;
+}
+
+.featured-product h3 {
+    margin-top: 10px;
+    font-size: 1.2rem;
+}
+
+.featured-product .price {
+    font-weight: bold;
+    color: #333;
+}
+
+/* About Us Section */
+.about-us {
+    margin-top: 50px;
+    text-align: center;
+}
+
+.about-us p {
+    font-size: 1.1rem;
+}
+
+.about-us .read-more {
+    color: #007BFF;
+    text-decoration: none;
+}
+
+/* Footer */
+.footer {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 20px 0;
+    position: relative;
+    margin-top: 50px;
+}
+
+.footer a {
+    color: #fff;
+    text-decoration: none;
+    margin: 0 10px;
+}
+
+.footer a:hover {
+    text-decoration: underline;
+}
+</stle1.css>

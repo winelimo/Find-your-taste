@@ -1,0 +1,50 @@
+<stles.css>
+'body{
+    font-family:Arial,sans-serif;
+    margin:0;
+    padding:0;
+    background-color:#f4f4f4;
+}
+header,footer{
+    background-color: brown;
+    color: rgb(255, 228, 196);
+    text-align: center;
+    padding: 0cap;
+}
+nav{
+    margin: 0cap;
+    padding: 0cap;
+    background-color: beige;
+    text-align: center;
+}
+nav a{
+    color: rgb(64, 31, 231);
+    display: inline-block;
+    padding:0cap;
+    text text-decoration: width: height: position: display: ;;;;
+
+}
+nav a:hover{
+ 
+    background-color: blueviolet;
+}
+container{
+    padding: 20px;
+    margin:20px;
+    background-color: aliceblue;
+    border: radius 8xp;
+    box-shadow:0 0 10px rgba(0,0,0,0.1) ;
+}
+.gallery{
+    padding:20px ;
+    margin-inline-start: 10px;
+    background-color: blueviolet;
+    text-align: justify;
+}
+.one{
+    padding-top: 6px;
+    background-color: rgb(227, 16, 16);
+    text-align: left;
+    margin-top: 10xp;
+}
+
